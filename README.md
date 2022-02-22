@@ -5,8 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazlo1290" alt="kazlo1290" /></a> </p>
 
-- 🔭 I’m currently working on [Umall.mn](https://umall.mn)
-
+- 🔭 I’m currently working on [**Umall.mn**](https://umall.mn)
+- 💻 [**Colorfully.mn**](https://colorfully.mn)
+- 🖱️  [**Codelock.mn**](https://codelock.mn)
 - 📫 How to reach me **kazlogn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
