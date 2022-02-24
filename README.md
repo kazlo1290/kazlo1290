@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazlo1290" alt="kazlo1290" /></a> </p>
 
-- 🔭 I’m currently working on [**Umall.mn**](https://umall.mn)
 - 💻 [**Colorfully.mn**](https://colorfully.mn)
 - 🖱️  [**Codelock.mn**](https://codelock.mn)
 - 📫 How to reach me **kazlogn@gmail.com**
@@ -13,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kazlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kazlo" height="30" width="40" /></a>
-<a href="https://fb.com/ganaaquinx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ganaaquinx" height="30" width="40" /></a>
+<a href="https://fb.com/kazlo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ganaaquinx" height="30" width="40" /></a>
 <a href="https://dribbble.com/kazl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kazl" height="30" width="40" /></a>
 </p>
 
