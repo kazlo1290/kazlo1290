@@ -1,17 +1,17 @@
 **<h1 align="center">Hi 👋, I'm Kazlo</h1>**
 <h3 align="center">I'm a student from Mongolia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kazlo1290&label=Profile%20views&color=0e75b6&style=flat" alt="kazlo1290" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kazlo1290&label=Profile%20views&color=0e75b6&style=flat" alt="kazlo1290" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazlo1290" alt="kazlo1290" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazlo1290" alt="kazlo1290" /></a> </p> -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kazlo1290&theme=darkhub&title=MultiLanguage, Commits, Repositories, Followers, Stars" alt="kazlo1290" /></a> </p>
 
 - 💻 [**Colorfully.mn**](https://colorfully.mn)
 - 🖱️  [**Codelock.mn**](https://codelock.mn)
 - 📫 How to reach me **kazlogn@gmail.com**
 
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
+<br>
 <p align="left"> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a> 
@@ -45,9 +45,15 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazlo1290&show_icons=true&locale=en&layout=compact" alt="kazlo1290" /></p>
-<br><br><br><br><br><br><br>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kazlo1290&show_icons=true&locale=en" alt="kazlo1290" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazlo1290&show_icons=true&locale=en&layout=compact" alt="kazlo1290" />
+</p>
+<br><br>
+<!-- <p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazlo1290&show_icons=true&locale=en" alt="kazlo1290" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazlo1290&" alt="kazlo1290" /></p> -->
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazlo1290&" alt="kazlo1290" />
+</p> -->
 
