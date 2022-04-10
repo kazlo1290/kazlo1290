@@ -46,7 +46,7 @@
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazlo1290&show_icons=true&locale=en&layout=compact" alt="kazlo1290" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazlo1290&show_icons=true&locale=en&layout=compact&theme=radical" alt="kazlo1290" />
 </p>
 <br><br>
 <!-- <p>
