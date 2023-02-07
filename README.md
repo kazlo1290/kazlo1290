@@ -7,4 +7,4 @@
 
 ### **Connect**
 
-[Facebook](https://facebook.com/kazloquinx) • [Instagram](https://instagram.com/k.a.z.l.o) • [Website](https://kazlo.dev/) • [Twitter](https://twitter.com/kazloquinx)
+[Facebook](https://facebook.com/kazloquinx) • [Instagram](https://instagram.com/k.a.z.l.o) • [Twitter](https://twitter.com/kazloquinx) • [Website](https://kazlo.dev/)
