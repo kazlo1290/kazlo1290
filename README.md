@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 💻 I'm currently working on Wordpress + PHP project<br>- 🗺 Based on Ulaanbaatar, Mongolia</p>
+<p align="left">- 💻 I'm currently working on Next.JS project<br>- 🗺 Based on Ulaanbaatar, Mongolia</p>
 
 ###
 
