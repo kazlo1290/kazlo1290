@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[Facebook](https://facebook.com/kazloquinx) • [Instagram](https://instagram.com/k.a.z.l.o) • [Twitter](https://twitter.com/kazloquinx) • [Website](https://kazlo.dev/)
+[Facebook](https://facebook.com/kazloquinx) • [Instagram](https://instagram.com/kazloquinx) • [Twitter](https://twitter.com/kazloquinx) • [Website](https://kazlo.dev/)
 
 </div>
 
