@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kazlo1206.kazlo1206&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kazlo1206.kazlo1206"  />
 </div>
 
 ###
