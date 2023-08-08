@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[Facebook](https://facebook.com/kazloquinx) • [Instagram](https://instagram.com/kazloquinx) • [Twitter](https://twitter.com/kazloquinx) • [Website](https://kazlo.dev/)
+[Facebook](https://facebook.com/kazlo1206) • [Instagram](https://instagram.com/kazlo1206) • [Twitter](https://twitter.com/kazlo1206) • [Website](https://kazlo.dev/)
 
 </div>
 
@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kazloquinx.kazloquinx&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kazlo1206.kazlo1206&"  />
 </div>
 
 ###
