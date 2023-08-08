@@ -6,7 +6,7 @@
 
 <div align="center">
   
-[Facebook](https://facebook.com/kazlo1206) • [Instagram](https://instagram.com/kazlo1206) • [Twitter](https://twitter.com/kazlo1206) • [Website](https://kazlo.dev/)
+[Facebook](https://facebook.com/kazlo1206) • [Instagram](https://instagram.com/kazlo1206) • [Website](https://kazlo.dev/)
 
 </div>
 
