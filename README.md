@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://firebasestorage.googleapis.com/v0/b/anya-29966.appspot.com/o/it-works-on-my-machine-funny-dev-design-black-sticker.webp?alt=media&token=4732c179-3be9-4abf-aa1e-fe6aa3beffbe"  />
+  <img height="150" src="https://firebasestorage.googleapis.com/v0/b/anya-29966.appspot.com/o/it-works-on-my-machine-funny-dev-design-black-sticker%20(1).png?alt=media&token=839df355-5a6d-4f04-a3c5-82460b39a1d5"  />
 </div>
 
 ###
