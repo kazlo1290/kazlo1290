@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">- 💻 I'm currently working on Next.JS project<br>- 🗺 Based on Ulaanbaatar, Mongolia</p>
+<p align="left">- 💻 I'm currently working on NestJS project<br>- 🗺 Based on Ulaanbaatar, Mongolia</p>
 
 ###
 
@@ -50,6 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" width="52" alt="wordpress logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" width="52" alt="woocommerce logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nestjs/nestjs-original.svg" height="40" width="52" alt="nestjs logo"  />
 </div>
 
 ###
