@@ -4,6 +4,6 @@
   * [Tridium](tridium.md)
   * [MonPass](monpass.md)
 
-* Downloads
+<!-- * Downloads
   * [MacOS](https://able.mn/)
-  * [Windows 10](https://able.mn/)
+  * [Windows 10](https://able.mn/) -->
