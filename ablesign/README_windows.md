@@ -5,6 +5,10 @@
   - [Tridium](tridium_windows.md)
   - [MonPass](monpass_windows.md)
 
+- Хэрвээ та дараах **Able Sign v1.4** програмыг суулгасан бол эхлээд түүнийг устгах зааврыг дагаж хийнэ үү.
+
+  - [Able Sign v1.4 устгах заавар](able_sign_uninstall.md)
+
 - **Able Sign v2.0** суулгахад дараах алхамуудыг дагаж хийнэ үү.
 
 1. Дараах нэртэй **able_sign_certificate.cer** файлыг сонгон давхар дарж нээнэ.
